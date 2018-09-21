@@ -17,7 +17,6 @@ if(isset($_POST['submit'])){
 
 }
 
-?>
 
 //$errors = array();
 //
