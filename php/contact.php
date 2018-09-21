@@ -14,7 +14,10 @@ if(isset($_POST['submit'])){
 
     header("Location: index.html?mailsend");
     console.log('in mail code');
+
 }
+
+?>
 
 //$errors = array();
 //
