@@ -1149,6 +1149,15 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		padding-top:0;
 	}
 
+	#citaten{
+		background: url(../images/bgd/background1.jpg) fixed;
+		/*background: url(../images/parallax/2.jpg) center center fixed;*/
+		padding: 70px 0 70px;
+		text-align: center;
+		overflow: hidden;
+		position: relative;
+	}
+
 /* Contact */
 
 	#contact {
