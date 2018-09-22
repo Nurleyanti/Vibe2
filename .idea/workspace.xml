@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96138442-94dd-42fd-a6a2-067708d7c809" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9491">
-              <caret line="591" column="54" lean-forward="true" selection-start-line="591" selection-start-column="54" selection-end-line="591" selection-end-column="54" />
+            <state relative-caret-position="637">
+              <caret line="309" column="105" lean-forward="false" selection-start-line="309" selection-start-column="105" selection-end-line="309" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -31,8 +30,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="1152" column="53" lean-forward="false" selection-start-line="1152" selection-start-column="53" selection-end-line="1152" selection-end-column="53" />
+            <state relative-caret-position="259">
+              <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -98,8 +97,12 @@
       <find>parall</find>
       <find>cita</find>
       <find>blockqu</find>
-      <find>testimonia</find>
       <find>citat</find>
+      <find>slides</find>
+      <find>testimonia</find>
+      <find>v2</find>
+      <find>scroll</find>
+      <find>hetwe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -213,12 +216,12 @@
       <workItem from="1537056008127" duration="3808000" />
       <workItem from="1537526281785" duration="4290000" />
       <workItem from="1537540571758" duration="5205000" />
-      <workItem from="1537650815258" duration="3749000" />
+      <workItem from="1537650815258" duration="6185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19484000" />
+    <option name="totallyTimeSpent" value="21920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -526,6 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -608,16 +612,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="1152" column="53" lean-forward="false" selection-start-line="1152" selection-start-column="53" selection-end-line="1152" selection-end-column="53" />
+        <state relative-caret-position="259">
+          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9491">
-          <caret line="591" column="54" lean-forward="true" selection-start-line="591" selection-start-column="54" selection-end-line="591" selection-end-column="54" />
+        <state relative-caret-position="637">
+          <caret line="309" column="105" lean-forward="false" selection-start-line="309" selection-start-column="105" selection-end-line="309" selection-end-column="105" />
           <folding />
         </state>
       </provider>
